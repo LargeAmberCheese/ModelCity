@@ -1,0 +1,14 @@
+[
+  {
+    "name": "chest",
+    "icon": "chest_icon",
+    "title": "chest_title",
+    "story": "chest_story"
+  },
+  {
+    "name": "key",
+    "icon": "key_icon",
+    "title": "key_title",
+    "story": "key_story"
+  }
+]
